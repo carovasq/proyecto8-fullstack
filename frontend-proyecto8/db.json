@@ -1,0 +1,151 @@
+{
+  "artPieces": [
+    {
+      "title": "Piece arteAbstracto",
+      "category": "arteAbstracto",
+      "author": "autoraEustaquia",
+      "imgPath": "https://image.cdn2.seaart.ai/2023-08-23/15109203713623045/874b8774ad78a8c7a8925e1ad02259bf1e33b08b_high.webp"
+    },
+    {
+      "title": "Piece realismoContemporaneo",
+      "category": "realismoContemporaneo",
+      "imgPath": "https://www.pngplay.com/wp-content/uploads/13/Abstract-Art-Transparent-File.png"
+    },
+    {
+      "title": "Piece expresionismo",
+      "category": "expresionismo",
+      "imgPath": "https://imagensemoldes.com.br/wp-content/uploads/2020/11/Ilustracao-Frida-Kahlo-PNG.png"
+    },
+    {
+      "title": "Piece arteDigital",
+      "category": "arteDigital",
+      "author": "autoraPepa",
+      "imgPath": "https://1.bp.blogspot.com/-_PiG45737f8/UVrbJgWpHaI/AAAAAAAAAN8/UgiCr_z36II/s1600/pop_art_transcription_wip_by_jordanwindows-d5h3gip.jpg"
+    },
+    {
+      "title": "Piece neoPop",
+      "category": "neoPop",
+      "imgPath": "https://i.pinimg.com/originals/17/a0/20/17a020b9c485ec6e635214a0f5bbb7f1.jpg"
+    },
+    {
+      "title": "Lonely Together",
+      "imgPath": "https://s.hdnux.com/photos/56/44/77/12210138/3/rawImage.jpg"
+    },
+    {
+      "title": "Owl",
+      "category": "expresionismo",
+
+      "imgPath": "https://mymodernmet.com/wp/wp-content/uploads/2019/12/joe-reimer-impressionist-paintings-20.jpg"
+    },
+    {
+      "title": "Menace",
+      "imgPath": "https://2.bp.blogspot.com/-H9pQqBdqCbw/VUGOSjbGQtI/AAAAAAADTFk/yfizmqKDu-A/s1600/paisajes-de-monta%C3%B1as-faciles%2B(3).jpg"
+    },
+    {
+      "title": "Paradise",
+      "imgPath": "https://i.pinimg.com/originals/19/44/08/194408365e2934fce6694e491d3465b2.jpg"
+    },
+    {
+      "title": "Friendship",
+      "imgPath": "https://2.bp.blogspot.com/-es4gpsEdAAg/Uvyupq8jXhI/AAAAAAABhJU/RTnwcVqxcls/s1600/bodegon-pintado-al-oleo.jpg"
+    },
+    {
+      "title": "Wanderlust",
+      "imgPath": "https://img.elo7.com.br/product/main/102C784/poster-pinturas-famosas-gravura-02-poster-para-moldura.jpg"
+    },
+    {
+      "title": "Serenity",
+      "imgPath": "https://2.bp.blogspot.com/-jL4YUrdjcrg/Uaqgf17N45I/AAAAAAAAg3A/S81yqC2gvWU/s1600/pintura-al-oleo-flores-modernas+(3).jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "491d",
+      "name": "Verduras y frutas",
+      "stock": "56",
+      "category": "De la huerta a la mesa",
+      "price": "9",
+      "description": "Verduras y frutas frescas, se venden por kilos, de la huerta de Manolito, disponemos de manzanas, tomates, fresas, melocotones, disponibilidad según temporada.",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709640627/cx9oxzpxr0njcyzzrncz.png"
+    },
+    {
+      "id": "b942",
+      "name": "Frutillas",
+      "stock": "6",
+      "category": "De la huerta a la mesa",
+      "price": "23",
+      "description": "Bolsas con frutillas variadas, moras, arándanos y fresas, cultivadas por la asociación juvenil, \"comarca joven\".",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709642669/zqfabdhdy0gk457y3gdf.png"
+    },
+    {
+      "id": "1535",
+      "name": "Mermeladas",
+      "stock": 27,
+      "category": "Elaborados",
+      "price": 3.5,
+      "description": "Mermeladas elaboradas por doña Gregoria, de sabores variados, fresa, melocotón, arándanos, tomate.",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709646549/geowkopfxir69uczasi9.png"
+    },
+    {
+      "id": "d28a",
+      "name": "Jabones",
+      "stock": 126,
+      "category": "Artesanía local",
+      "price": 5,
+      "description": "Jabones naturales sin aditivos, elaborados con los productos de nuestra tierra y con aceites esenciales naturales, elaborados por la cooperativa \"amigos de la Comarca\"",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709646711/rb3lyzqc2qdioe21hknq.png"
+    },
+    {
+      "id": "2a51",
+      "name": "Quesos",
+      "stock": 541,
+      "category": "Elaborados",
+      "price": 12,
+      "description": "Quesos elaborados en colaboración de la granja de don Ramón y el rebaño de ovejas de doña Espátula, con la ayuda de la asociación \"espabila chiquillo\"",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709646826/rjxghjo2efrhqf1amb3o.png"
+    },
+    {
+      "id": "1870",
+      "name": "Miel",
+      "stock": 245,
+      "category": "De la huerta a la mesa",
+      "price": 9,
+      "description": "Miel de flor de Azahar del colmenar de nuestra región gestionado por la señora Maya, sin aditivos y recolección semi-manual sin dañar la colmena y sus panales.",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709646954/orsxefhce0rsblt4vh5t.png"
+    },
+    {
+      "id": "48e9",
+      "name": "Pan cateto",
+      "stock": 126,
+      "category": "Elaborados",
+      "price": 1.2,
+      "description": "Panadería hermanos Zape te ofrece pan cateto, amplia gama, pan blanco, integral, de semillas variadas etc.",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709647148/r0xjdw5got2r4c9lrn0v.png"
+    },
+    {
+      "id": "45fa",
+      "name": "Cuencos de barro",
+      "stock": 78,
+      "category": "Artesanía local",
+      "price": 5,
+      "description": "cuencos de barros con diseños coloridos, muy resistentes.",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709647493/guszx2phbgqlbgalbjdw.png"
+    },
+    {
+      "id": "e2ab",
+      "name": "Jarapas",
+      "stock": 12,
+      "category": "Artesanía local",
+      "price": 8,
+      "description": "jarapas de colores en varios tamaños, tejidas por las abuelitas del rincón del carajillo.",
+      "file": " https://res.cloudinary.com/dgusxuq9j/image/upload/v1709647548/ynqffwgguyoiejaqy0qz.png"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "useremail": "user@mail.com",
+      "userpassword": "password"
+    }
+  ]
+}

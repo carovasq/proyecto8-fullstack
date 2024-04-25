@@ -1,0 +1,45 @@
+
+
+.footer-top{
+  background-color: #F7F2EE;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 20vh;
+  padding-inline: 2.5vw;
+}
+
+.footer-rrss{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.iconStyle{
+  width: 40px;
+  height: 40px;
+  margin-left: 20px;
+}
+
+.iconStyle img{
+  width: 100%;
+  height: 100%;
+}
+
+.footer-bot{
+  height: 14vh;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer-bot div{
+  margin-right: 20px;
+}
+
+.icon-rrss{
+  width: 60px;
+  height: 60px;
+  margin-inline: 20px;
+}

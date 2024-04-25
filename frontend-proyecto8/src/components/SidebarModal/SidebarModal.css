@@ -1,0 +1,21 @@
+.sidebar{
+  height: 200vh;
+}
+
+.sidebar .nav{
+  padding: 0px !important;
+}
+
+.sidebar ul li a:hover, .closeSesion:hover{
+  cursor: pointer;
+  background-color: #FF635E;
+}
+
+.nav-pills{
+  --bs-nav-pills-link-active-bg: #FF635E;
+}
+
+.cerrarSesion{
+  bottom: 0;
+}
+
